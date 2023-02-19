@@ -17,7 +17,7 @@
 
   /* Dark Mode */
   .appMount-2yBXZl {
-    --primary-color: rgba(0,0,0,var(--background-darkness));
+    --primary-color: rgba(0,0,0,0);
   }
 
   .theme-dark {
