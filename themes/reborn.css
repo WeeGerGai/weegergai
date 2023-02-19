@@ -21,10 +21,10 @@
   }
 
   .theme-dark {
-    --primary-color: rgba(0,0,0,0.75);
-    --secondary-color: rgba(0,0,0,0.6);
-    --tertiary-color: rgba(0,0,0,0.4);
-    --quaternary-color: rgba(0,0,0,0.7);
+    --primary-color: rgba(0, 0, 0, 0);
+    --secondary-color: rgba(0, 0, 0, 0);
+    --tertiary-color: rgba(0, 0, 0, 0);
+    --quaternary-color: rgba(0, 0, 0, 0);
   }
 
   /* Light Mode */
